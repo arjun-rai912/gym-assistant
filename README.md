@@ -1,6 +1,14 @@
 
 # Gym Assistant
 
+# Video Demo 
+
+
+https://user-images.githubusercontent.com/85013470/210861543-d0fac743-8c9f-4873-ab91-5429418ab93a.mp4
+
+
+
+
 # Description
 Welcome to Gym Assistant! This tool is designed to help you keep track of your bicep curl workouts using OpenCV's MediaPipe library. It is implemented in Jupyter notebooks, so you can easily try out the code and customize it to your needs.
 
